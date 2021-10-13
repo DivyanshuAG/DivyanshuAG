@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyanshuAG
 - 👀 I’m interested in programming, reading (mostly fiction), photography, and astronomy
-- 🌱 I’m currently learning flask, django, and java
+- 🌱 I’m currently learning flask, java and flutter
 - 💞️ I’m looking to collaborate on any intermediate level python project
 - 📫 How to reach me ...
 
